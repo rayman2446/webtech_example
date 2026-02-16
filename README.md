@@ -6,7 +6,7 @@ les2 practise example
 - Dries Willekens
 - Lennart Verjans
 - Joppe Colla
-- Jarne Creces
+- Rayan Kandichy
 -
 -
 -
